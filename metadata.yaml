@@ -1,0 +1,22 @@
+_repo: The-Secret-of-the-Creation_21610
+creator:
+  author:
+    agent_name: Pollyen, Howard D.
+    gutenberg_agent_id: '24807'
+    url: http://www.gutenberg.org/2009/agents/24807
+description: ''
+gutenberg_issued: '2007-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcsh 'Bible. Genesis -- Adaptations'
+- !lcsh 'Creation'
+- !lcc 'BS'
+title: The Secret of the Creation
+url: http://www.gutenberg.org/ebooks/21610
